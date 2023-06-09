@@ -11,6 +11,6 @@ The project is bootstrapped with the following features:
 
 <div align:"center" >
 
-    https://github.com/4TWIGGERS/4Twiggers-React-native-template/assets/94455967/c44dc5ea-012a-4fe3-9304-b5333dc8c9ef" type="video/mp4">
+    https://github.com/4TWIGGERS/4Twiggers-React-native-template/assets/94455967/c44dc5ea-012a-4fe3-9304-b5333dc8c9ef"
 
 </div>
