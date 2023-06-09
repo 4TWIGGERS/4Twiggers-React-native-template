@@ -8,3 +8,5 @@ The project is bootstrapped with the following features:
 -  Basic components such as `Header`, `Button`, `Icon`, `IconButton`, as well as some custom assets like icons and images.
 -  Basic utility functions.
 -  Written in TypeScript.
+
+https://github.com/4TWIGGERS/4Twiggers-React-native-template/assets/94455967/c44dc5ea-012a-4fe3-9304-b5333dc8c9ef
