@@ -9,9 +9,8 @@ The project is bootstrapped with the following features:
 -  Basic utility functions.
 -  Written in TypeScript.
 
-<div align="center" ><video  controls>
-    <source src="https://github.com/4TWIGGERS/4Twiggers-React-native-template/assets/94455967/c44dc5ea-012a-4fe3-9304-b5333dc8c9ef" type="video/mp4">
+<div align:"center" >
 
-  </video>
+    https://github.com/4TWIGGERS/4Twiggers-React-native-template/assets/94455967/c44dc5ea-012a-4fe3-9304-b5333dc8c9ef" type="video/mp4">
 
 </div>
